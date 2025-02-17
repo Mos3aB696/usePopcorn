@@ -44,9 +44,7 @@ This app fetches movies from an external movie database API. Make sure to check 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
+## Contact
 **Mosaab Abdelkawy**
 - [Portfolio](https://mos3ab.tech)
 - [LinkedIn](https://www.linkedin.com/in/mosaab-abdelkawy/)
