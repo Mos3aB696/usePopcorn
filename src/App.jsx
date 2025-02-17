@@ -34,8 +34,10 @@ export default function App() {
   return (
     <>
       <NavBar>
+        <div className="search-container">
         <Search query={query} setQuery={setQuery} />
         <NumResults movies={movies} />
+        </div>
       </NavBar>
 
       <Main>
