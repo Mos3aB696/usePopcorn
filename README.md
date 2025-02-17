@@ -38,9 +38,6 @@ A sleek and interactive movie app that allows users to search, rate, and track m
    ```
 5. Open your browser and visit `http://localhost:5173` (default Vite port).
 
-## 📸 Screenshots
-[Include screenshots showcasing the app’s UI]
-
 ## 🔗 API Usage
 This app fetches movies from an external movie database API. Make sure to check API limits and documentation.
 
